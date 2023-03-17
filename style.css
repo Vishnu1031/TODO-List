@@ -17,7 +17,7 @@ header {
 
 header,
 form {
-  min-height: 20vh;
+  min-height: 21vh;
   display: flex;
   align-items: center;
   justify-content: center;
